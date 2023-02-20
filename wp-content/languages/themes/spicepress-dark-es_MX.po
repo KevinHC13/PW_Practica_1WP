@@ -1,0 +1,259 @@
+# Translation of Themes - SpicePress Dark in Spanish (Mexico)
+# This file is distributed under the same license as the Themes - SpicePress Dark package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-30 16:45:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: es_MX\n"
+"Project-Id-Version: Themes - SpicePress Dark\n"
+
+#. Theme Name of the theme
+#: footer.php:16
+#, gp-priority: high
+msgid "SpicePress Dark"
+msgstr "SpicePress Dark"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "SpicePress Dark WordPress Theme is a lightweight, elegant, fully responsive, and translation-ready theme. It is flexible and suitable for agencies, blogs, businesses, corporate or portfolios. It comes with a predesigned home page, good-looking header designs, and several content sections that you can easily customize. It also has many customization options (banner, services, portfolio, etc) that will help you create a beautiful, unique website in no time. The theme is compatible with popular plugins like Polylang, WooCommerce and Contact Form 7."
+msgstr "El tema SpicePress Dark para WordPress es un tema ligero, elegante, totalmente adaptable y preparado para su traducción. Es versátil y perfecto para agencias, blogs, negocios, empresas o porfolios. Viene con una página de inicio prediseñada, diseños de cabecera atractivos y varias secciones de contenido que puedes personalizar fácilmente. También tiene muchas opciones de personalización (banner, servicios, porfolio, etc.) que te ayudarán a crear un sitio web bonito y único en poco tiempo. El tema es compatible con plugins populares como Polylang, WooCommerce y Contact Form 7."
+
+#: index-news.php:90
+msgid "Read More"
+msgstr "Leer más"
+
+#: index-news.php:82
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: index-news.php:75
+msgid "in"
+msgstr "en"
+
+#: index-news.php:69
+msgid "By"
+msgstr "Por"
+
+#: index-news.php:11
+msgid "Sea summo mazim ex, ea errem eleifend definitionem vim. Ut nec hinc dolor possim mei ludus efficiendi ei sea summo mazim ex."
+msgstr "Sea summo mazim ex, ea errem eleifend definitionem vim. Ut nec hinc dolor possim mei ludus efficiendi ei sea summo mazim ex."
+
+#: index-news.php:10
+msgid "Turpis mollis"
+msgstr "Turpis mollis"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:86
+msgid "Click here to apply these settings"
+msgstr "Haz clic aquí para aplicar estos ajustes"
+
+#: footer.php:16
+msgid "SpiceThemes"
+msgstr "SpiceThemes"
+
+#: footer.php:16
+msgid "by"
+msgstr "por"
+
+#: footer.php:16
+msgid "| Theme:"
+msgstr "| Tema:"
+
+#: footer.php:16
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:16
+msgid "https://wordpress.org"
+msgstr "https://es-mx.wordpress.org"
+
+#: footer.php:16
+msgid "Proudly powered by"
+msgstr "Funciona gracias a"
+
+#: admin/tab-pages/useful_plugins.php:19
+msgid "Want to get the list of the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "¿Quieres estar al día de los últimos cambios en el tema? Simplemente consulta nuestro registro de cambios de abajo para conocer los arreglos recientes y las características incorporadas."
+
+#: admin/tab-pages/useful_plugins.php:12
+msgid "We want to make sure you have the best experience using this theme, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using this theme as much as we enjoy creating great products."
+msgstr "Queremos asegurarnos de que tengas la mejor experiencia utilizando este tema, y es por eso que hemos reunido toda la información necesaria aquí. Esperamos que disfrutes usando este tema tanto como nosotros disfrutamos creando grandes productos."
+
+#: admin/tab-pages/useful_plugins.php:11 admin/tab-pages/useful_plugins.php:13
+msgid "Contact Support"
+msgstr "Contactar al soporte técnico"
+
+#: admin/tab-pages/getting-started.php:79 admin/tab-pages/useful_plugins.php:18
+#: admin/tab-pages/useful_plugins.php:20
+msgid "Changelog"
+msgstr "Informe de cambios"
+
+#: admin/tab-pages/getting-started.php:73
+msgid "Free vs Pro"
+msgstr "Gratis vs Pro"
+
+#: admin/tab-pages/getting-started.php:67
+msgid "Premium Theme Details"
+msgstr "Detalles del tema premium"
+
+#: admin/tab-pages/getting-started.php:61
+msgid "Your feedback is valuable to us"
+msgstr "Tu feedback es muy valioso para nosotros"
+
+#: admin/tab-pages/getting-started.php:55
+msgid "Theme Support"
+msgstr "Soporte para el Tema"
+
+#: admin/tab-pages/getting-started.php:49
+msgid "PRO Demo"
+msgstr "PRO Demo"
+
+#: admin/tab-pages/getting-started.php:43
+msgid "Lite Demo"
+msgstr "Demo de Lite"
+
+#: admin/tab-pages/getting-started.php:38
+msgid "Useful Links"
+msgstr "Enlaces útiles"
+
+#: admin/tab-pages/getting-started.php:32
+msgid "SpicePress Dark theme"
+msgstr "Tema SpicePress Dark"
+
+#: admin/tab-pages/getting-started.php:26
+msgid "Go to the Customizer"
+msgstr "Ir al Customizer"
+
+#: admin/tab-pages/getting-started.php:24
+msgid "To take full advantage of all the features this theme has to offer, install and activate the Spice Box plugin. Go to Customize and install the Spice Box plugin."
+msgstr "Para aprovechar al máximo las características que este tema te ofrece, instala y activa el plugin Spice Box. Ve a \"Personalizar\" e instala el plugin Spice Box."
+
+#: admin/tab-pages/getting-started.php:19
+msgid "You can use this theme for any type of activity. The theme is compatible with popular plugins like WPML and Polylang. To help you create an effective and impactful web presence, It has predefined versions of some pages: Contact and About Us."
+msgstr "Puedes utilizar este tema para cualquier tipo de actividad. El tema es compatible con plugins populares como WPML y Polylang. Para ayudarte a crear una presencia web eficaz e impactante, tiene versiones predefinidas de algunas páginas: Contacto y Acerca de nosotros."
+
+#: admin/tab-pages/getting-started.php:10
+msgid "About the SpicePress Dark theme"
+msgstr "Sobre el tema SpicePress Dark"
+
+#: admin/inc/include-companion.php:98
+msgid "Activate now"
+msgstr "Activar ahora"
+
+#: admin/inc/include-companion.php:97
+msgid "Activate Spice Box now"
+msgstr "Activa ahora Spice Box"
+
+#: admin/inc/include-companion.php:96
+msgid "You have installed the Spice Box plugin. To take advantage of this theme's features in the customizer, you need to activate it."
+msgstr "Has instalado el plugin Spice Box. Para aprovechar las funciones de este tema en el personalizador, debes activarlo."
+
+#: admin/inc/include-companion.php:80
+msgid "Install Spice Box Now"
+msgstr "Instalar Spice Box ahora"
+
+#: admin/inc/include-companion.php:79
+msgid "To take advantage of this theme's features in the customizer you need to install the Spice Box plugin."
+msgstr "Para disfrutar completamente de las funcionalidades de este tema en el personalizador, necesitas instalar el plugin Spice Box."
+
+#: admin/inc/class-spicethemes-about-page.php:490
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: admin/inc/class-spicethemes-about-page.php:484
+#: admin/inc/include-companion.php:80 admin/inc/include-companion.php:97
+msgid "Spice Box"
+msgstr "Spice Box"
+
+#: admin/inc/class-spicethemes-about-page.php:344
+msgid "Active"
+msgstr "Activo"
+
+#: admin/inc/class-spicethemes-about-page.php:341
+msgid "Activate"
+msgstr "Activar"
+
+#: admin/inc/class-spicethemes-about-page.php:339
+msgid "Activate %s now"
+msgstr "Activar %s ahora"
+
+#: admin/inc/class-spicethemes-about-page.php:322
+#: admin/inc/include-companion.php:81
+msgid "Install and activate"
+msgstr "Instalar y activar"
+
+#: admin/inc/class-spicethemes-about-page.php:320
+msgid "Install %s now"
+msgstr "Instalar %s ahora"
+
+#: admin/inc/class-spicethemes-about-page.php:244
+msgid "Support"
+msgstr "Soporte"
+
+#: admin/inc/class-spicethemes-about-page.php:236
+msgid "Recommended Actions"
+msgstr "Acciones recomendadas"
+
+#: admin/inc/class-spicethemes-about-page.php:231
+#: admin/tab-pages/getting-started.php:21
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: admin/inc/class-spicethemes-about-page.php:134
+msgid "Get started with SpicePress Dark theme"
+msgstr "Empieza a usar el tema SpicePress Dark"
+
+#: admin/inc/class-spicethemes-about-page.php:133
+msgid "SpicePress Dark theme is installed. To take full advantage of the features this theme has to offer visit our %1$swelcome page%2$s"
+msgstr "Se ha instalado el tema SpicePress Dark. Para aprovechar completamente todas las características que este tema ofrece, visita nuestra %1$spágina de bienvenida%2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:120
+msgid "Welcome to %1$s %2$s"
+msgstr "Bienvenido a %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:119
+msgid "About %1$s %2$s"
+msgstr "Sobre %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:111
+msgid "View Theme Info"
+msgstr "Ver información del tema"
+
+#: admin/inc/class-spicethemes-about-page.php:72
+#: admin/inc/include-companion.php:43 admin/inc/plugin-include-control.php:42
+msgid "Error"
+msgstr "Error"
+
+#: admin/inc/class-spicethemes-about-page.php:71
+#: admin/inc/include-companion.php:42 admin/inc/plugin-include-control.php:41
+msgid "Activating"
+msgstr "Activando"
+
+#: admin/inc/class-spicethemes-about-page.php:70
+#: admin/inc/include-companion.php:41 admin/inc/plugin-include-control.php:40
+msgid "Installing"
+msgstr "Instalando"
+
+#. Author URI of the theme
+#: footer.php:16
+#, gp-priority: low
+msgid "https://spicethemes.com"
+msgstr "https://spicethemes.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "spicethemes"
+msgstr "spicethemes"
+
+#. Theme URI of the theme
+#: footer.php:16
+#, gp-priority: low
+msgid "https://spicethemes.com/spicepress-dark-wordpress-theme/"
+msgstr "https://spicethemes.com/spicepress-dark-wordpress-theme/"

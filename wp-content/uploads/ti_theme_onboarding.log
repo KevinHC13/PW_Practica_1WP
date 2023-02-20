@@ -1,0 +1,26 @@
+[18/Feb/2023:21:51:23] (I): WordPress Instance Info:
+[18/Feb/2023:21:51:23] (I): Home URL : http://146.190.124.9
+[18/Feb/2023:21:51:23] (I): Site URL : http://146.190.124.9
+[18/Feb/2023:21:51:23] (I): WordPress Version : 6.1.1
+[18/Feb/2023:21:51:23] (I): Onboarding Version : 1.1.34
+[18/Feb/2023:21:51:23] (I): Multisite : No
+[18/Feb/2023:21:51:23] (I): Server Info : Apache/2.4.54 (Ubuntu)
+[18/Feb/2023:21:51:23] (I): PHP Version : 8.1.7-1ubuntu3.2
+[18/Feb/2023:21:51:23] (I): HTTPS : No
+[18/Feb/2023:21:51:23] (I): PHP Max Execution Time : 30
+[18/Feb/2023:21:51:23] (I): PHP Max Input Vars : 1000
+[18/Feb/2023:21:51:23] (I): Max Upload Size : 2097152
+[18/Feb/2023:21:51:23] (I): Plugins:
+[18/Feb/2023:21:51:23] (I): [PLUGIN] Shortcodes Ultimate : v5.12.7 (Vova Anokhin)
+[18/Feb/2023:21:51:23] (I): [PLUGIN] Contact Form 7 : v5.7.3 (Takayuki Miyoshi)
+[18/Feb/2023:21:51:23] (I): [PLUGIN] Copy &amp; Delete Posts : v1.3.8 (Copy Delete Posts)
+[18/Feb/2023:21:51:23] (I): [PLUGIN] Image optimization service by Optimole : v3.5.6 (Optimole)
+[18/Feb/2023:21:51:23] (I): [PLUGIN] Otter – Page Builder Blocks &amp; Extensions for Gutenberg : v2.2.2 (ThemeIsle)
+[18/Feb/2023:21:51:23] (I): [PLUGIN] SEO Optimized Images : v2.0 (priyanshu.mittal)
+[18/Feb/2023:21:51:23] (I): [PLUGIN] Spice Post Slider : v1.5 (Spicethemes)
+[18/Feb/2023:21:51:23] (I): [PLUGIN] Spice Social Share : v0.1 (Spicethemes)
+[18/Feb/2023:21:51:23] (I): [PLUGIN] SpiceBox : v2.1.4 (Spicethemes)
+[18/Feb/2023:21:51:23] (I): [PLUGIN] Templates Patterns Collection : v1.1.34 (ThemeIsle)
+[18/Feb/2023:21:51:23] (I): [PLUGIN] Widget Options : v3.8.10 (Widget Options Team)
+[18/Feb/2023:21:51:23] (I): [PLUGIN] WooCommerce : v7.4.0 (Automattic)
+[18/Feb/2023:21:51:23] (I): [PLUGIN] WP Reset : v1.97 (WebFactory Ltd)

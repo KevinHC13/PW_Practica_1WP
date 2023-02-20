@@ -1,0 +1,172 @@
+/*
+Theme Name: SpicePress Dark
+Theme URI: https://spicethemes.com/spicepress-dark-wordpress-theme/
+Author: spicethemes
+Author URI: https://spicethemes.com
+Template: spicepress
+Description: SpicePress Dark WordPress Theme is a lightweight, elegant, fully responsive, and translation-ready theme. It is flexible and suitable for agencies, blogs, businesses, corporate or portfolios. It comes with a predesigned home page, good-looking header designs, and several content sections that you can easily customize. It also has many customization options (banner, services, portfolio, etc) that will help you create a beautiful, unique website in no time. The theme is compatible with popular plugins like Polylang, WooCommerce and Contact Form 7.
+Tags: one-column, two-columns, right-sidebar, custom-menu, custom-logo, featured-images, footer-widgets, sticky-post, threaded-comments, translation-ready
+Version: 1.1.1
+Requires at least: 4.7
+Tested up to: 6.1
+Requires PHP: 5.4
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GNU General Public License v2 or later
+Text Domain: spicepress-dark
+*/
+
+/*===================================================================================*/
+/*  SERVICE SECTION 5
+/*===================================================================================*/
+
+.services5 .post {
+    margin-bottom: 2rem;
+    padding: 2.438rem 2.25rem;
+    background-color: #ffffff;
+    transition: 0.25s;
+    -webkit-transition: all 0.25s ease-in;
+    -moz-transition: all 0.25s ease-in;
+	transition: all 0.25s ease-in;
+	border-radius: 15px;
+}
+.services5 .post-thumbnail { 
+    position: relative;
+    text-align: center;
+    margin: 0 auto 1.550rem;
+}
+.services5 .post-thumbnail img { border-radius: 2px; }
+.services5 .post-thumbnail i.fa {
+    /*background: #ce1b28;*/
+    border-radius: 50%;
+    color: #fff;
+    width: 5rem;
+    height: 5rem;
+    font-size: 2.25rem;
+    line-height: 1.9;
+    padding: 0.313rem;
+    -webkit-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+}
+.services5 .entry-header .entry-title a:hover , .services5 .post:hover .entry-content p { color:#fff !important;}
+.services5 .post:hover .entry-header .entry-title a {color:#fff; }
+.services5 .post:hover .post-thumbnail i.fa {
+    background: #f5f6fa;
+    /*color: #ce1b28;*/
+    -webkit-transform: scale3d(1.1, 1.1, 1);
+    transform: scale3d(1.1, 1.1, 1);
+}
+.services5 .post:hover {
+   /* background: #ce1b28;*/
+    color: #fff;
+    -webkit-box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 0.1);
+}
+
+/*===================================================================================*/
+/*  TESTIMONIAL SECTION 5
+/*===================================================================================*/
+.testimonial5 .testmonial-block .avatar {
+    width: 100%;
+    height: auto;
+}
+.testimonial5 .testmonial-block .avatar img{
+	border-radius: 15px 0px 0px 15px; 
+}
+.testimonial5 .testmonial-block h4 {
+    float: right;
+    text-align: right;
+}
+.testimonial5 .testmonial-block .entry-content:before{
+	display: none;
+}
+@media (min-width: 768px) {
+	.testimonial5 .testmonial-block {
+	    display: flex;
+	    padding: 0;
+	    margin-bottom: 1.5rem;
+	}
+	.testimonial5 .testmonial-block .testimonial-text {
+	    align-self: center;
+	}
+}
+@media (max-width: 767px){
+	.testimonial5 .testmonial-block .avatar {
+	    margin: 0 auto 15px;
+	    width: 20rem;
+	}
+	.testimonial5 .testmonial-block .avatar img {
+	    border: 0px;
+	    border-radius: 15px;
+	}
+}
+
+@media screen and (min-width: 768px){
+	.blog-section .rotate-list-view .post-thumbnail.thumb-align-left {
+	    float: left;
+	    margin: 0 0 30px;
+	}
+	.blog-section .rotate-list-view .post-thumbnail.thumb-width {
+	    max-width: 100%;
+	}
+}
+
+/* Blog List View Layout ---------------------------------------------------------------------------------------------- */
+
+.blog-list-layout {  }
+
+.blog-section .blog-list-layout .post {
+	padding: 25px;
+}
+.blog-section .blog-list-layout p:last-child {
+	margin: 0px;
+}
+.blog-section .blog-list-layout .post-thumbnail.thumb-width {
+	margin: 0px 0px 25px;
+    position: relative;
+}
+@media screen and (min-width: 768px) {
+	.blog-section .blog-list-layout .post-thumbnail.thumb-width {
+		max-width: 40%;
+	}
+	.blog-section .blog-list-layout .post-thumbnail.thumb-align-left {
+		float: left;
+		margin: 0 35px 0 0;
+	}
+	.blog-section .blog-list-layout .post-thumbnail.thumb-align-right {
+		float: right;
+		margin: 0 0 0 35px;
+	}
+}
+
+.blog-section .blog-list-layout .space-none {
+	padding: 0px 0px 40px !important;
+}
+.blog-section.home-news  { padding: 70px 0 30px; }
+.section-module {
+    padding: 3.25rem 0 2.5rem;
+}
+@media screen and (max-width: 600px)
+{
+	#wrapper{
+    position: initial!important;
+}
+}
+.blog-section .post .entry-content p {
+    margin: 0 0 20px;
+}
+@media (min-width: 768px)
+{
+    body .navbar-custom .navbar-brand {
+    padding: 20px 16px 20px 0;
+}
+}
+body .blog-section .entry-content a.more-link,
+body .blog-section .entry-content a.more-link:hover,
+body .home-news.grid .entry-content a.more-link,
+body .comment-detail a.comment-reply-link:hover,
+body .comment-detail a.comment-reply-link:focus
+{
+	text-decoration: none!important;
+}
